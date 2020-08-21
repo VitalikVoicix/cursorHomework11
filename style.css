@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+    text-align: center;
+}
+div{
+   border-top: 2px solid black; 
+   border-bottom:2px solid black ;
+   text-align: left;
+}
+p{
+    font-size: larger;
+    color: brown;
+}
+button{
+    border-radius: 10px;
+    background-color: coral;
+    
+}
+input{
+    border-radius: 10px;
+    width: 40px;
+}
